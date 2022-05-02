@@ -1,0 +1,23 @@
+.box {
+    display: flex;
+    border: 1px solid rgb(45, 45, 45);
+    margin-top: 10px;
+}
+
+
+.images {
+    height: 100%;
+    width: 300px;
+}
+
+.news {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 0px 15px;
+}
+
+.title {
+    font-weight: bold;
+    margin: 10px 0px 10px 0px;
+}
